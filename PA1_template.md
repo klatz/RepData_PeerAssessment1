@@ -208,7 +208,7 @@ mean(is.na(moni_data))
 ## [1] 0.04372
 ```
 
-* **4.3\%** of the values in the first dataset was missing.  
+* **4.3%** of the values in the first dataset was missing.  
 The missing values was treated as 0 in total number of the steps 
 with "na.rm" option in summing function.  
 So after fixing data, the mean of the total number of steps is gained.
