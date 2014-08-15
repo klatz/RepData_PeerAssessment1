@@ -258,4 +258,6 @@ plot(names(steps_weekday),steps_weekday, type="l"
 ![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.png) 
 
 * From the graphs above, clearly more active in daytime of weekend.  
+ And seems to wake up and go to bed earlier in weekday than in weekend.
+ 
 
